@@ -126,6 +126,9 @@ img{
  h1{
 padding-top:70%;
 }
+.hero p{
+    font-size: 0.9rem;
+}
 .link{
         /* display: none; */
         padding: 0.7rem;
