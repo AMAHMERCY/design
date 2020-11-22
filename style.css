@@ -123,17 +123,14 @@ img{
     .hero{
         height: 600px;
     }
- h1{
-padding-top:70%;
-}
 .hero p{
-    font-size: 0.9rem;
+    font-size: 1.4rem;
 }
 .link{
         /* display: none; */
         padding: 0.7rem;
         /* margin-left: 0 auto; */
-        /* margin-bottom: -100%; */
+        margin-bottom: -100%;
     }
     footer p{
         text-align: center;
