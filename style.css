@@ -120,6 +120,12 @@ img{
     .section-2a{
         margin-bottom: 1.5rem;
     }
+    .hero{
+        height: 600px;
+    }
+ h1{
+padding-top:70%;
+}
 .link{
         /* display: none; */
         padding: 0.7rem;
