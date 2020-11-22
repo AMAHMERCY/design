@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 .hero{
-    background-image: url("IMAGES/code.jpg");
+    background-image: url("code.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;
